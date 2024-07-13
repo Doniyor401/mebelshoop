@@ -1,0 +1,13 @@
+venv/
+.pylintric
+__pycache__/
+cache/
+
+.vscode
+.idea
+
+db.sqlite3
+media/
+
+prod_settings.py
+local_settings.py
